@@ -1,0 +1,26 @@
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound\obj\x86\Debug\MainWindow.baml
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound\obj\x86\Debug\App.g.cs
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound\obj\x86\Debug\sound_MarkupCompile.cache
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound\obj\x86\Debug\sound.g.resources
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound\obj\x86\Debug\sound.Properties.Resources.resources
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound\bin\Debug\sound.exe
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound\bin\Debug\sound.pdb
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound\obj\x86\Debug\sound.exe
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound\obj\x86\Debug\sound.pdb
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound\sound\obj\x86\Debug\sound.exe
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound\sound\obj\x86\Debug\sound.pdb
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound\sound\bin\Debug\sound.exe
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound\sound\bin\Debug\sound.pdb
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound\sound\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound\sound\obj\x86\Debug\MainWindow.baml
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound\sound\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound\sound\obj\x86\Debug\App.g.cs
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound\sound\obj\x86\Debug\sound_MarkupCompile.cache
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound\sound\obj\x86\Debug\sound.g.resources
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound\sound\obj\x86\Debug\sound.Properties.Resources.resources
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound\sound\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound\sound\obj\x86\Debug\GenerateResource.write.1.tlog
