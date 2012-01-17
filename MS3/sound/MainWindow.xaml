@@ -1,0 +1,27 @@
+﻿<Window x:Class="sound.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="344" Width="541">
+    <Grid>
+        <Rectangle Height="311" HorizontalAlignment="Left" Name="rectangle1" Stroke="Black" VerticalAlignment="Top" Width="569" />
+        <Button Content="Button" Height="23" HorizontalAlignment="Left" Margin="241,245,0,0" Name="button1" VerticalAlignment="Top" Width="75"
+                
+            Background="#FF7F90FC" BorderBrush="#95FFFFFF"           
+
+                
+                
+                />
+        <ListBox Height="236" HorizontalAlignment="Left" Margin="12,22,0,0" Name="listBox1" VerticalAlignment="Top" Width="116" />
+        <Image Height="150" HorizontalAlignment="Left" Margin="186,63,0,0" Name="image1" Stretch="Fill" VerticalAlignment="Top" Width="186" />
+        
+
+        <Label Content="iCOMMAND" Height="45" HorizontalAlignment="Left" Margin="204,12,0,0" Name="label1" VerticalAlignment="Top" Width="191"
+         FontSize="24"
+        FontStretch="UltraExpanded"
+        FontStyle="Italic"
+              Foreground="YellowGreen"
+
+
+            />
+    </Grid>
+</Window>
