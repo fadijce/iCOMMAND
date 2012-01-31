@@ -1,0 +1,14 @@
+C:\Users\Saideh\Documents\Visual Studio 2010\Projects\sound2\sound2\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Saideh\Documents\Visual Studio 2010\Projects\sound2\sound2\obj\x86\Release\MainWindow.baml
+C:\Users\Saideh\Documents\Visual Studio 2010\Projects\sound2\sound2\obj\x86\Release\MainWindow.g.cs
+C:\Users\Saideh\Documents\Visual Studio 2010\Projects\sound2\sound2\obj\x86\Release\App.g.cs
+C:\Users\Saideh\Documents\Visual Studio 2010\Projects\sound2\sound2\obj\x86\Release\sound2_MarkupCompile.cache
+C:\Users\Saideh\Documents\Visual Studio 2010\Projects\sound2\sound2\obj\x86\Release\sound2.g.resources
+C:\Users\Saideh\Documents\Visual Studio 2010\Projects\sound2\sound2\obj\x86\Release\sound2.Properties.Resources.resources
+C:\Users\Saideh\Documents\Visual Studio 2010\Projects\sound2\sound2\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Saideh\Documents\Visual Studio 2010\Projects\sound2\sound2\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Saideh\Documents\Visual Studio 2010\Projects\sound2\sound2\bin\Release\sound2.exe
+C:\Users\Saideh\Documents\Visual Studio 2010\Projects\sound2\sound2\bin\Release\sound2.pdb
+C:\Users\Saideh\Documents\Visual Studio 2010\Projects\sound2\sound2\bin\Release\nunit.framework.dll
+C:\Users\Saideh\Documents\Visual Studio 2010\Projects\sound2\sound2\obj\x86\Release\sound2.exe
+C:\Users\Saideh\Documents\Visual Studio 2010\Projects\sound2\sound2\obj\x86\Release\sound2.pdb

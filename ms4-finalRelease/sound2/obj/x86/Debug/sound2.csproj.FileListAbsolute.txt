@@ -1,0 +1,26 @@
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound2\bin\Debug\sound2.exe
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound2\bin\Debug\sound2.pdb
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound2\obj\x86\Debug\MainWindow.baml
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound2\obj\x86\Debug\App.g.cs
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound2\obj\x86\Debug\sound2_MarkupCompile.cache
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound2\obj\x86\Debug\sound2.g.resources
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound2\obj\x86\Debug\sound2.Properties.Resources.resources
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound2\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound2\obj\x86\Debug\sound2.exe
+C:\Users\Saideh\AppData\Local\Temporary Projects\sound2\obj\x86\Debug\sound2.pdb
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound2\sound2\obj\x86\Debug\sound2.exe
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound2\sound2\obj\x86\Debug\sound2.pdb
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound2\sound2\bin\Debug\sound2.exe
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound2\sound2\bin\Debug\sound2.pdb
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound2\sound2\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound2\sound2\obj\x86\Debug\MainWindow.baml
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound2\sound2\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound2\sound2\obj\x86\Debug\App.g.cs
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound2\sound2\obj\x86\Debug\sound2_MarkupCompile.cache
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound2\sound2\obj\x86\Debug\sound2.g.resources
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound2\sound2\obj\x86\Debug\sound2.Properties.Resources.resources
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound2\sound2\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Saideh\documents\visual studio 2010\Projects\sound2\sound2\obj\x86\Debug\GenerateResource.write.1.tlog
